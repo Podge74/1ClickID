@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NEWMOD2:jar2">
+    <output-path>$PROJECT_DIR$/../Jar</output-path>
+    <root id="archive" name="NEWMOD2.jar">
+      <element id="module-output" name="NEWMOD2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jna-platform-5.14.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jna-5.14.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

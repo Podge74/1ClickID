@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NEWMOD2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NEWMOD2_jar</output-path>
+    <root id="archive" name="NEWMOD2.jar">
+      <element id="module-output" name="NEWMOD2" />
+    </root>
+  </artifact>
+</component>
